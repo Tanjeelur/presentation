@@ -1,0 +1,10 @@
+#fonts{
+    *Lato light
+    *Lato bold
+    *Allura regular
+    *Lato regular
+}
+
+#section paddings for: xl       lg      md    sm    col
+            top      = 80px    80px    80px   40px    40px
+            bottom   = 80px    80px    80px   40px    40px

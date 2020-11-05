@@ -1,0 +1,95 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  /* header part */
+ .head-caption {
+    padding-top: 45px;
+    padding-bottom: 60px;
+}
+.title h1{
+    font-size: 25px;
+}
+ /* header part  */
+ /* service  */
+ .services {
+    padding: 40px 0px;
+    text-align: center;
+}
+.s-title h1{
+    font-size: 20px;
+}
+.s-p{
+    margin: 10px 0px;
+}
+ /* service */
+
+ /* request */
+ .request{
+     padding: 40px 0px;
+ }
+ .r-title h1 {
+    font-size: 25px;
+    font-weight: 300;
+}
+.r-btn {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.r-btn button{
+    width: 180px;
+    height: 40px;
+}
+ /* request */
+ /* footer  */
+ .foot{
+     text-align: center;
+     padding: 40px 0px;
+ }
+ /* footer  */
+ }
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+ /* header part */
+ .head-caption {
+    padding-top: 65px;
+    padding-bottom: 90px;
+}
+ /* header part  */
+ /* request */
+ .request{
+    padding: 40px 0px;
+}
+.r-title h1 {
+   font-size: 25px;
+   font-weight: 300;
+}
+.r-btn {
+   padding-top: 20px;
+   padding-bottom: 40px;
+}
+.r-btn button{
+    width: 180px;
+    height: 40px;
+}
+/* request */
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+ /* header part */
+ .head-caption {
+    padding-top: 65px;
+    padding-bottom: 90px;
+}
+ /* header part  */
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+ }
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+ }
